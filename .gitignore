@@ -75,4 +75,4 @@ typings/
 
 # Idea
 .idea/*
-
+.gitignore

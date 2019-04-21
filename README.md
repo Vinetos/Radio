@@ -13,5 +13,5 @@ npm i
 
 # Start
 ```sh
-npm serve
+npm start
 ```
